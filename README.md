@@ -22,3 +22,9 @@ This repository contains my learning notes, experiments, and implementations bas
 이 분야를 체계적으로 학습하고, 실험하고, 실제 동작하는 결과물을 만들어보는 여정을 시작하려 합니다.
 
 이 레포지토리는 AI 에이전트 분야의 전문가로 성장하기 위해 쌓아가는 과정을 기록하는 공간입니다. 미약하더라도 꾸준히 쌓아가며 발전해 나갈 계획입니다.
+
+### 📁 Repository Structure
+- `notes/` – 개념 정리 + 인사이트
+- `examples/` – 실험용 코드
+- `projects/` – 확장 프로젝트
+- `references/` – 참고 자료
